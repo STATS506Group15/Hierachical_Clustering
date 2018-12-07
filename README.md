@@ -5,6 +5,9 @@
 This repo contains all group 15's project files for this tutorial.
 
 ### R
+  - [R/R.Rmd](./R/R.Rmd) : R Markdown file for R section.
+  - [R/R.html](./R/R.html) : Html file for R section.
+  - [R/Figures](./R/Figures) : All figures should be included in R Markdown.
 ### STATA
 
   - [STATA/STATA.Rmd](./STATA/STATA.Rmd) : R Markdown file for STATA section.
